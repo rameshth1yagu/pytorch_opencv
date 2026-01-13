@@ -1,0 +1,23 @@
+digraph {
+	graph [size="12,12"]
+	node [align=left fontname=monospace fontsize=10 height=0.2 ranksep=0.1 shape=box style=filled]
+	5701839488 [label="z
+ (2)" fillcolor=darkolivegreen1]
+	5701586560 [label=AddBackward0]
+	5702163696 -> 5701586560
+	5702163696 [label=MulBackward0]
+	5702163504 -> 5702163696
+	4346107680 [label="x
+ (2)" fillcolor=lightblue]
+	4346107680 -> 5702163504
+	5702163504 [label=AccumulateGrad]
+	5702163552 -> 5702163696
+	5689928720 [label="y
+ (2)" fillcolor=lightblue]
+	5689928720 -> 5702163552
+	5702163552 [label=AccumulateGrad]
+	5702163648 -> 5701586560
+	5702163648 [label=PowBackward0]
+	5702163552 -> 5702163648
+	5701586560 -> 5701839488
+}
