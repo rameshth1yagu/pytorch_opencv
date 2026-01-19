@@ -1,4 +1,3 @@
-Here is the comprehensive content for your `cnn.md` file. It covers the core concepts of CNNs, followed by the practical implementation details (Data Collection, Transformation, Loader, Model, Training, and Prediction) based on the code we developed.
 
 ---
 
