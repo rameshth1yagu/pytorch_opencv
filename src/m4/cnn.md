@@ -1,6 +1,3 @@
-
----
-
 # Convolutional Neural Networks (CNN): Concepts & Implementation
 
 ## 1. Understanding CNNs (The "Pattern Finder")

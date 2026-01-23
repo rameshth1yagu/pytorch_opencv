@@ -1,7 +1,3 @@
-Here is the comprehensive content for your `m9_instance_segmentation.md` file. It explains the concepts, the architecture, and provides the modular code snippets.
-
----
-
 # Instance Segmentation with Mask R-CNN
 
 ## 1. What is Instance Segmentation?

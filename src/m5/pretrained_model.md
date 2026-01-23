@@ -1,7 +1,3 @@
-Here is the comprehensive `transfer_learning.md` file. It breaks down the concepts of Transfer Learning, explains the specific ResNet18 pipeline we built, and includes the complete, refactored Python code.
-
----
-
 # Transfer Learning: The "Superpower" of Deep Learning
 
 ## 1. What is Transfer Learning?

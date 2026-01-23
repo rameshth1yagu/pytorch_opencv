@@ -1,7 +1,3 @@
-Here is the comprehensive content for your `m7_semantic_segmentation.md` file. It explains the concepts of Semantic Segmentation, how FCNs work, and provides the step-by-step code snippets.
-
----
-
 # Semantic Segmentation with FCN-ResNet101
 
 ## 1. What is Semantic Segmentation?

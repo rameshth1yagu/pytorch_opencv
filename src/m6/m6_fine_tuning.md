@@ -1,7 +1,3 @@
-Here is the comprehensive content for `fine_tuning.md`. It explains the "Why" and "How" of Fine-Tuning and clearly distinguishes it from basic Transfer Learning.
-
----
-
 # Fine-Tuning: The "Expert" Level of Transfer Learning
 
 ## 1. What is Fine-Tuning?

@@ -1,7 +1,3 @@
-Here is the comprehensive Markdown file covering the core concepts, common pitfalls, and the robust code implementation for YOLOv11.
-
----
-
 # Object Detection with YOLOv11
 
 ## 1. Core Concepts: What is YOLO?

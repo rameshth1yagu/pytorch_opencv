@@ -1,7 +1,3 @@
-Here is the comprehensive content for your `m8_object_detection.md` file. It covers the theory, architecture, and code implementation details we discussed.
-
----
-
 # Object Detection with Faster R-CNN
 
 ## 1. What is Object Detection?
